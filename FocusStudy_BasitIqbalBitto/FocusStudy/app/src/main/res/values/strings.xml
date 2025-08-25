@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FocusStudy</string>
+    <string name="creator_credit_html"><![CDATA[Created by <a href="https://bitto.pages.dev/">Basit Iqbal Bitto</a>]]></string>
+    <style name="Theme.FocusStudy" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+</resources>
